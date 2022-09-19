@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "latitude": 1.28692,
+    "longitude": 103.85457,
+    "place": "Merlion",
+    "desc": "The Merlion is the national personification of Singapore. Its name combines mer meaning the sea and lion. The fish body represents Singapore's origin as a fishing village when it was called Temasek, which means sea town in Javanese. The lion head represents Singapore's original name—Singapura—meaning lion city or kota singa",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rear_view_of_the_Merlion_statue_at_Merlion_Park%2C_Singapore%2C_with_Marina_Bay_Sands_in_the_distance_-_20140307.jpg/800px-Rear_view_of_the_Merlion_statue_at_Merlion_Park%2C_Singapore%2C_with_Marina_Bay_Sands_in_the_distance_-_20140307.jpg?20140317020208"
+  },
+  {
+    "id": 2,
+    "latitude": 1.287466,
+    "longitude": 103.851424,
+    "place": "Asian Civilisations Museum",
+    "desc": "The Merlion is the national personification of Singapore. Its name combines mer meaning the sea and lion. The fish body represents Singapore's origin as a fishing village when it was called Temasek, which means sea town in Javanese. The lion head represents Singapore's original name—Singapura—meaning lion city or kota singa",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Asian_civilisations_museums_singapore.jpg"
+  },
+  {
+    "id": 3,
+    "latitude": 1.290555,
+    "longitude": 103.846188,
+    "place": "Clarke Quay",
+    "desc": "The Merlion is the national personification of Singapore. Its name combines mer meaning the sea and lion. The fish body represents Singapore's origin as a fishing village when it was called Temasek, which means sea town in Javanese. The lion head represents Singapore's original name—Singapura—meaning lion city or kota singa",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/22/Clarke_Quay%2C_Singapore%2C_at_night_-_20150308.jpg"
+  },
+  {
+    "id": 4,
+    "latitude": 1.295526,
+    "longitude": 103.845331,
+    "place": "Fort Canning Park",
+    "desc": "The Merlion is the national personification of Singapore. Its name combines mer meaning the sea and lion. The fish body represents Singapore's origin as a fishing village when it was called Temasek, which means sea town in Javanese. The lion head represents Singapore's original name—Singapura—meaning lion city or kota singa",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Fort_Canning_Park_sign%2C_Singapore_-_20110506.jpg"
+  },
+  {
+    "id": 5,
+    "latitude": 1.302279,
+    "longitude": 103.837399,
+    "place": "Orchard Road",
+    "desc": "The Merlion is the national personification of Singapore. Its name combines mer meaning the sea and lion. The fish body represents Singapore's origin as a fishing village when it was called Temasek, which means sea town in Javanese. The lion head represents Singapore's original name—Singapura—meaning lion city or kota singa",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/59/Presenting..._the_real_ION_%288200217734%29.jpg"
+  },
+  {
+    "id": 6,
+    "latitude": 1.289332,
+    "longitude": 103.863152,
+    "place": "Singapore Flyer",
+    "desc": "The Merlion is the national personification of Singapore. Its name combines mer meaning the sea and lion. The fish body represents Singapore's origin as a fishing village when it was called Temasek, which means sea town in Javanese. The lion head represents Singapore's original name—Singapura—meaning lion city or kota singa",
+    "img": "https://www.visitsingapore.com/id_id/see-do-singapore/recreation-leisure/viewpoints/singapore-flyer/_jcr_content/par-carousel/carousel_detailpage/carousel/item0.thumbnail.carousel-img.740.416.jpg"
+  },
+  {
+    "id": 7,
+    "latitude": 1.283099,
+    "longitude": 103.860295,
+    "place": "Marina Bay Sands",
+    "desc": "The Merlion is the national personification of Singapore. Its name combines mer meaning the sea and lion. The fish body represents Singapore's origin as a fishing village when it was called Temasek, which means sea town in Javanese. The lion head represents Singapore's original name—Singapura—meaning lion city or kota singa",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Marina_bay_sands_night_skypark_2010.JPG"
+  },
+  {
+    "id": 8,
+    "latitude": 1.28179,
+    "longitude": 103.863954,
+    "place": "Gardens By The Bay",
+    "desc": "The Merlion is the national personification of Singapore. Its name combines mer meaning the sea and lion. The fish body represents Singapore's origin as a fishing village when it was called Temasek, which means sea town in Javanese. The lion head represents Singapore's original name—Singapura—meaning lion city or kota singa",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Marina_Bay_Sands_from_Gardens_By_The_Bay.jpg"
+  },
+  {
+    "id": 9,
+    "latitude": 1.284193,
+    "longitude": 103.843362,
+    "place": "Chinatown",
+    "desc": "The Merlion is the national personification of Singapore. Its name combines mer meaning the sea and lion. The fish body represents Singapore's origin as a fishing village when it was called Temasek, which means sea town in Javanese. The lion head represents Singapore's original name—Singapura—meaning lion city or kota singa",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/77/Mid-Autumn_Festival_22%2C_Chinatown%2C_Singapore%2C_Sep_06.JPG"
+  }
+]

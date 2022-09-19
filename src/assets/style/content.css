@@ -1,0 +1,9 @@
+.content {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  z-index: 998;
+  height: calc(100vh - 56px);
+  width: 300px;
+  color: white;
+}
